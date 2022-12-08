@@ -13,9 +13,19 @@
             inputHour = double.Parse(Console.ReadLine());
             Console.WriteLine("Enter the value of the minute hand: ");
             inputMinute = double.Parse(Console.ReadLine());
-            if(inputHour > 24 || inputMinute > 60)
+            if (inputHour > 24 && inputMinute > 60)
             {
-                Console.WriteLine("Please enter a valid hour and minute hand value");
+                Console.WriteLine("Please enter valid values for both of the variables");
+                return;
+            }
+            if (inputHour > 24)
+            {
+                Console.WriteLine("Please enter the hour hand value that is between 0 and 24.");
+                return;
+            }
+            if(inputMinute > 60)
+            {
+                Console.WriteLine("Please enter the minute hand value that is between 0 and 60");
                 return;
             }
             double angle = LesserAngleCalculation(oneHourDegrees, oneMinuteDegrees, inputHour, inputMinute);
