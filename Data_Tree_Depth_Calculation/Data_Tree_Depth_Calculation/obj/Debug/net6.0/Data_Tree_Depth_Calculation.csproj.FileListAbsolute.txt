@@ -1,0 +1,15 @@
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\bin\Debug\net6.0\Data_Tree_Depth_Calculation.exe
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\bin\Debug\net6.0\Data_Tree_Depth_Calculation.deps.json
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\bin\Debug\net6.0\Data_Tree_Depth_Calculation.runtimeconfig.json
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\bin\Debug\net6.0\Data_Tree_Depth_Calculation.dll
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\bin\Debug\net6.0\Data_Tree_Depth_Calculation.pdb
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\obj\Debug\net6.0\Data_Tree_Depth_Calculation.csproj.AssemblyReference.cache
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\obj\Debug\net6.0\Data_Tree_Depth_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\obj\Debug\net6.0\Data_Tree_Depth_Calculation.AssemblyInfoInputs.cache
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\obj\Debug\net6.0\Data_Tree_Depth_Calculation.AssemblyInfo.cs
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\obj\Debug\net6.0\Data_Tree_Depth_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\obj\Debug\net6.0\Data_Tree_Depth_Calculation.dll
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\obj\Debug\net6.0\refint\Data_Tree_Depth_Calculation.dll
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\obj\Debug\net6.0\Data_Tree_Depth_Calculation.pdb
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\obj\Debug\net6.0\Data_Tree_Depth_Calculation.genruntimeconfig.cache
+C:\Users\p4t0s\Desktop\reiztech internship\Data_Tree_Depth_Calculation\Data_Tree_Depth_Calculation\obj\Debug\net6.0\ref\Data_Tree_Depth_Calculation.dll
