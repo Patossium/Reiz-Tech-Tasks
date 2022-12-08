@@ -1,0 +1,30 @@
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.csproj.AssemblyReference.cache
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.AssemblyInfoInputs.cache
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.AssemblyInfo.cs
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.csproj.CoreCompileInputs.cache
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\bin\Debug\net6.0\ClockTask.exe
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\bin\Debug\net6.0\ClockTask.deps.json
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\bin\Debug\net6.0\ClockTask.runtimeconfig.json
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\bin\Debug\net6.0\ClockTask.dll
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\bin\Debug\net6.0\ClockTask.pdb
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.dll
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\obj\Debug\net6.0\refint\ClockTask.dll
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.pdb
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.genruntimeconfig.cache
+C:\Users\p4t0s\Desktop\reiztech internship\ClockTask\ClockTask\obj\Debug\net6.0\ref\ClockTask.dll
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\bin\Debug\net6.0\ClockTask.exe
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\bin\Debug\net6.0\ClockTask.deps.json
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\bin\Debug\net6.0\ClockTask.runtimeconfig.json
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\bin\Debug\net6.0\ClockTask.dll
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\bin\Debug\net6.0\ClockTask.pdb
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.csproj.AssemblyReference.cache
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.AssemblyInfoInputs.cache
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.AssemblyInfo.cs
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.csproj.CoreCompileInputs.cache
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.dll
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\obj\Debug\net6.0\refint\ClockTask.dll
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.pdb
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\obj\Debug\net6.0\ClockTask.genruntimeconfig.cache
+C:\Users\p4t0s\Desktop\naujas_folderis\ClockTask\ClockTask\obj\Debug\net6.0\ref\ClockTask.dll
